@@ -1,0 +1,4 @@
+name: your_env
+channels:
+  - defaults
+prefix: /home/konglingshun/miniconda3/envs/your_env
