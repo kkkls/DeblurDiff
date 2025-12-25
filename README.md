@@ -8,6 +8,10 @@ conda env create -f environment.yml
 
 [download](https://drive.google.com/drive/folders/1CUtnUKbu_zTyjJ17F95UYyh2SDzCOHeW?usp=drive_link)
 
+## Train
+
+bash train.sh
+
 ## Test
 
 bash test.sh
