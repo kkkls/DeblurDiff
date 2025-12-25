@@ -9,7 +9,7 @@ conda env create -f environment.yml
 [download](https://drive.google.com/drive/folders/1CUtnUKbu_zTyjJ17F95UYyh2SDzCOHeW?usp=drive_link)
 
 ## Data
-run bash file_image.sh to generate the training data list.
+run bash file_img.sh to generate the training data list.
 
 ## Train
 
