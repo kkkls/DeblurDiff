@@ -1,0 +1,1 @@
+accelerate launch --main_process_port 4562 train.py --config configs/train/train.yaml

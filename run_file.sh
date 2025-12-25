@@ -1,0 +1,1 @@
+srun -p Pixel -n1 --gres=gpu:8 -N1 --job-name=gopro_pretrain --cpus-per-task=4 --quotatype=spot sh train.sh
